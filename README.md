@@ -1,1 +1,1 @@
-# mindReader
+# MindReader
